@@ -1,6 +1,5 @@
 # BÁO CÁO LAB 19: XÂY DỰNG HỆ THỐNG GRAPHRAG VỚI TECH COMPANY CORPUS
-**Học viên:** Bùi Văn Thái (2A202600674)
-**Ngày thực hiện:** 23/06/2026
+Vu Quoc Tan-2A202600910
 
 ---
 
